@@ -17,20 +17,19 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class MiguelVanegasC():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Miguel Vanegas Cardenas";
+    self.username = "miguelvanegas-c";
+    self.location = "Colombia";
+    self.email = "miguelvanegasc2004@gmail.com";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = MiguelVanegasC()
 ```
 
 <div align="center">
