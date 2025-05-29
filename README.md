@@ -16,7 +16,7 @@ I'm passionate about technology, software development, and always eager to learn
 
 </br>
 
-- 🔧 I'm always open to collaboration, new challenges, and opportunities to grow as a developer. Feel free to check out my repositories or reach out!
+- 🔧 I'm always open to collaboration, new challenges, and opportunities to grow as a developer. Feel free to check out my repositories.
 - 💡 I'm currently exploring frontend development technologies such as HTML, CSS, JavaScript, and React, aiming to build clean and interactive user interfaces.
 - 📫 How to reach me miguelvanegasc2004@gmail.com.
 
