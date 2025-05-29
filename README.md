@@ -25,10 +25,7 @@ I'm passionate about technology, software development, and always eager to learn
 </br>
 
 
-<table width="100%" >
 
- <tr>
-    <td width="60%">
      
 ## 🛠️ Skills
 
@@ -44,8 +41,8 @@ I'm passionate about technology, software development, and always eager to learn
 
 
      
-</td>
-    <td>
+
+    
   
 ## 📄📜 Stats
 
@@ -58,9 +55,7 @@ I'm passionate about technology, software development, and always eager to learn
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvanegas-c&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
-  </td>
- </tr>
-</table>
+ 
 
 
 <!--
