@@ -45,7 +45,7 @@ I'm passionate about technology, software development, and always eager to learn
  </br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvanegas-c"/>
  </br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvanegas-c&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
  
