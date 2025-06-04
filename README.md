@@ -30,7 +30,7 @@ I'm passionate about technology, software development, and always eager to learn
 #### Tols and Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,ts,postgresql,mongodb,git,github,react,next,azure,spring&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,postgresql,mongodb,git,github,postman,azure,spring&perline=12" />
   </a>
 </p>
 
