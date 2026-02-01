@@ -41,12 +41,18 @@ I'm passionate about technology, software development, and always eager to learn
 
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=miguelvanegas-c&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvanegas-c"/>
- </br>
+  </br>
+
+  <!-- GitHub Streak Stats (Vercel version) -->
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvanegas-c&theme=algolia" />
+  </br>
+
+  <!-- Top Languages -->
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvanegas-c&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
+
      
  
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
