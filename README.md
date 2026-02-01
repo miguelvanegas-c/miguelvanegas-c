@@ -42,7 +42,7 @@ I'm passionate about technology, software development, and always eager to learn
 
 <p align="center">
   <!-- GitHub Stats -->
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=miguelvanegas-c)](https://github.com/KnlnKS/leetcode-stats)
+  ![Repository Stats](https://github-repo-readme-stats.vercel.app/api/?username=miguelvanegas-c&repo=YOUR_REPO&theme=light)
   </br>
 </p>
 
