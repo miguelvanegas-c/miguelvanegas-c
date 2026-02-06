@@ -42,8 +42,18 @@ I'm passionate about technology, software development, and always eager to learn
 
 <p align="center">
   <!-- GitHub Stats -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelvanegas-c&hide=contribs,prs)
-  </br>
+ 
+ <img src="https://github-readme-stats-delta-six-18.vercel.app/api?username=miguelvanegas-c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs?username=miguelvanegas-c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=miguelvanegas-c&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
+  
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+  <img src="https://trophygh.kolioaris.xyz?username=miguelvanegas-c&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelvanegas-c&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
 </p>
 
      
