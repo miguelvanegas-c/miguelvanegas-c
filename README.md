@@ -42,7 +42,7 @@ I'm passionate about technology, software development, and always eager to learn
 
 <p align="center">
   <!-- GitHub Stats -->
-  ![Repository Stats](https://github-repo-readme-stats.vercel.app/api/?username=miguelvanegas-c&theme=light)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelvanegas-c&hide=contribs,prs)
   </br>
 </p>
 
