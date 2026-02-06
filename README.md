@@ -63,6 +63,9 @@ I'm passionate about technology, software development, and always eager to learn
 <br/>
 
 <a href="mailto:miguelvanegasc2004@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href=https://www.linkedin.com/in/miguel-vanegas-468646368/>
+  <img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
 
 </br>
@@ -84,5 +87,6 @@ I'm passionate about technology, software development, and always eager to learn
 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
+
 
 
