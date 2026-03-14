@@ -1,7 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B0000&size=25&center=false&lines=hey!+its+Miguel"/>
- 
+# Hey there👋, Welcome to my Github Profile 
  <p>- <i>👋 Hi there!
 I'm Miguel Vanegas, a Systems Engineering student currently in my 6th semester at the Escuela Colombiana de Ingeniería Julio Garavito 🇨🇴.
 
@@ -30,7 +27,7 @@ I'm passionate about technology, software development, and always eager to learn
 #### Tols and Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,postgresql,mongodb,git,github,postman,azure,spring,javascript,react,html,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,postgresql,mongodb,git,github,postman,azure,spring,javascript,react,html,css,aws,docker&perline=12" />
   </a>
 </p>
 
