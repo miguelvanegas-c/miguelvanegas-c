@@ -15,7 +15,6 @@ I'm passionate about technology, software development, and always eager to learn
 
 - 🔧 I'm always open to collaboration, new challenges, and opportunities to grow as a developer. Feel free to check out my repositories.
 - 💡 I'm currently exploring ai technologies.
-- 📫 How to reach me miguelvanegasc2004@gmail.com.
 
 <hr>
 
