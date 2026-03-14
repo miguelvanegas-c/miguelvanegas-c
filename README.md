@@ -14,7 +14,7 @@ I'm passionate about technology, software development, and always eager to learn
 </br>
 
 - 🔧 I'm always open to collaboration, new challenges, and opportunities to grow as a developer. Feel free to check out my repositories.
-- 💡 I'm currently exploring frontend development technologies such as HTML, CSS, JavaScript, and React, aiming to build clean and interactive user interfaces.
+- 💡 I'm currently exploring ai technologies.
 - 📫 How to reach me miguelvanegasc2004@gmail.com.
 
 <hr>
@@ -27,7 +27,7 @@ I'm passionate about technology, software development, and always eager to learn
 #### Tols and Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,postgresql,mongodb,git,github,postman,azure,spring,javascript,react,html,css,aws,docker&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,postgresql,mongodb,git,github,postman,azure,spring,javascript,react,html,css,aws,docker,node,n8n.appian&perline=12" />
   </a>
 </p>
 
