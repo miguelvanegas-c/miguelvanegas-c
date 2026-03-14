@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile 
  <p>- <i>👋 Hi there!
-I'm Miguel Vanegas, a Systems Engineering student currently in my 6th semester at the Escuela Colombiana de Ingeniería Julio Garavito 🇨🇴.
+I'm Miguel Vanegas, a Systems Engineering student currently in my 8th semester at the Escuela Colombiana de Ingeniería Julio Garavito 🇨🇴.
 
 I'm passionate about technology, software development, and always eager to learn new tools and frameworks.
 
