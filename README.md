@@ -14,7 +14,7 @@ I'm passionate about technology, software development, and always eager to learn
 </br>
 
 - 🔧 I'm always open to collaboration, new challenges, and opportunities to grow as a developer. Feel free to check out my repositories.
-- 💡 I'm currently exploring ai technologies.
+- 💡 I am currently exploring topics related to artificial intelligence and experimenting with automation tools such as n8n and Appian. 
 
 <hr>
 
